@@ -1,0 +1,2 @@
+# binaries
+Scripton binary releases
